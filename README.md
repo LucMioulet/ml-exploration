@@ -1,2 +1,2 @@
 # ml-exploration
-ML alogrithms exploration
+ML algorithms exploration
